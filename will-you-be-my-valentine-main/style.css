@@ -34,8 +34,8 @@ p {
 .message {
     /* Additional styles for your message div */
     /* For example: */
-    width: 300px;
-    height: 90px;
+    width: 310px;
+    height: 80px;
     text-align: center;
 	border-radius: 10px;
 }
